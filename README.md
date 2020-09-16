@@ -16,6 +16,6 @@ Update `local.json` file to custom the params.
 
 ## Deployment
 ```
-truffle deploy --network tomo --reset
+truffle deploy --network tao --reset
 ```
-Note: Make sure you have enough TOMO for TX contract creation fee.
+Note: Make sure you have enough TAO for TX contract creation fee.
