@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tomochain/trc20.git"
+    "url": "git+https://github.com/tao-network/trc20.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tomochain/trc20/issues"
+    "url": "https://github.com/tao-network/trc20/issues"
   },
-  "homepage": "https://github.com/tomochain/trc20#readme",
+  "homepage": "https://github.com/tao-network/trc20#readme",
   "dependencies": {
     "bignumber.js": "^8.1.1",
     "config": "^3.1.0",
